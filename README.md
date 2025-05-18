@@ -9,12 +9,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: **[your current project or focus]**
+- 🔭 I’m currently working on: **[software developer ]**
 - 🌱 Learning: **Java | DSA | System Design**
 - ⚒️ Tech Stack: `Java`, `JavaScript`, `React`, `Node.js`, `Git`, `MongoDB`, `MySQL`
 - 💬 Ask me about anything **web dev**, **DSA**, or **career growth**
-- 📫 Reach me at: `your.email@example.com`
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 📫 Reach me at: `vanan99056@gmail.com `
+
 
 ---
 
