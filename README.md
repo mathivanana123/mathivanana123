@@ -55,7 +55,6 @@
 |--------|-------------|
 | 🔗 [**Cool Web App**](#) | A dynamic web application built with React + Node.js |
 | 🔗 [**DSA Playground**](#) | A personal repository of Java Data Structures and Algorithms |
-| 🔗 [**Portfolio Site**](#) | Your personal developer portfolio built with modern UI/UX |
 
 ---
 
