@@ -45,14 +45,7 @@
 ---
 
 
-### 💼 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 🔗 [**Cool Web App**](#) | A dynamic web application built with React + Node.js |
-| 🔗 [**DSA Playground**](#) | A personal repository of Java Data Structures and Algorithms |
-
----
 
 ### 📬 Let's Connect
 
